@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1 Welcome to the Admin Panel
+  p Use the links below to manage your content.
+
+  ul
+    li: a(href="/admin/projects/add") Add Project
+    li: a(href="/admin/skills/add") Add Skill
+    li: a(href="/api/projects") View Projects (API)
+    li: a(href="/api/skills") View Skills (API)
