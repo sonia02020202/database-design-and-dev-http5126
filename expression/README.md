@@ -1,14 +1,28 @@
 Express App Setup	 Done	index.js
-3. Admin Pages (Pug templates)	
-4. API Endpoints returning JSON	
-5. Use MongoDB Atlas (Online DB)	
-6. Styling for Admin Pages	
-7. Admin Functionality (Add & Delete)	
-8. Use a Template Engine (Pug)	
-9. Deployment Instructions	
-10. GitHub Submission Guidelines	
+
+3. Admin Pages (Pug templates)
+    
+5. API Endpoints returning JSON
+   
+6. Use MongoDB Atlas (Online DB)
+    
+8. Styling for Admin Pages
+   
+10. Admin Functionality (Add & Delete)
+    
+12. Use a Template Engine (Pug)
+    
+14. Deployment Instructions
+    
+16. GitHub Submission Guidelines
+    
 11 added .gitignore 
+
 12 API Data Can Be Viewed in a Browser
-13. Added Project.js
-14. Added skills.js
-15. Added Readme file.
+
+18. Added Project.js
+    
+20. Added skills.js
+    
+22. Added Readme file.
+    
