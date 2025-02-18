@@ -25,4 +25,6 @@ Express App Setup	 Done	index.js
 20. Added skills.js
     
 22. Added Readme file.
+
+23. .gitignore file added		
     
